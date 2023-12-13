@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @A-man-sinha
+- 👋 Hi, I’m Aman Sinha
 - 👀 I’m interested in new ideas and technology 
 - 🌱 I’m currently learning Data science and Analytics 
 - 💞️ I’m looking to collaborate on github and linkedin for projects and internships.
